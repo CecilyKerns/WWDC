@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ContentVersion</key>
+	<string>1.0</string>
+	<key>Name</key>
+	<string>Coding a 2D Game</string>
+	<key>Pages</key>
+	<array>
+		<string>Introduction.cutscenepage</string>
+		<string>02 Tap Tap Championship.playgroundpage</string>
+		<string>Variables.cutscenepage</string>
+		<string>03 Beautiful Backgrounds.playgroundpage</string>
+		<string>Functions.cutscenepage</string>
+		<string>04 Talking Time.playgroundpage</string>
+		<string>05 Tapping Trials.playgroundpage</string>
+		<string>06 Lively Labels.playgroundpage</string>
+		<string>07 Starting and Stopping.playgroundpage</string>
+		<string>08 Reining in Requirements.playgroundpage</string>
+		<string>09 Magnificent Music.playgroundpage</string>
+		<string>10 A Refreshing Review.playgroundpage</string>
+		<string>End.cutscenepage</string>
+	</array>
+</dict>
+</plist>

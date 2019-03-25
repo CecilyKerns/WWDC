@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>Function</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Coding%20a%202D%20Game/Talking%20Time</string>
+				<key>Title</key>
+				<string>Talking Time</string>
+			</dict>
+			<key>Definition</key>
+			<string>Functions are collections of little bits of code, smashed together into one easy phrase that can be used at any time.  </string>
+		</dict>
+		<key>Variable</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Coding%20a%202D%20Game/Beautiful%20Backgrounds</string>
+				<key>Title</key>
+				<string>Beautiful Backgrounds</string>
+			</dict>
+			<key>Definition</key>
+			<string>A variable is something in which you can store tidbits of information. You can change this information at any time! In code it is refered to as ```var```. </string>
+		</dict>
+		<key>Label</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Coding%20a%202D%20Game/Lively%20Labels</string>
+				<key>Title</key>
+				<string>Lively Labels</string>
+			</dict>
+			<key>Definition</key>
+			<string>A label is a coding method used to display text within a program.</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
